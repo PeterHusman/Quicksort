@@ -1,0 +1,7 @@
+C:\Users\Peter Husman\Documents\GitHub\Quicksort\Quicksort\bin\Debug\Quicksort.exe.config
+C:\Users\Peter Husman\Documents\GitHub\Quicksort\Quicksort\bin\Debug\Quicksort.exe
+C:\Users\Peter Husman\Documents\GitHub\Quicksort\Quicksort\bin\Debug\Quicksort.pdb
+C:\Users\Peter Husman\Documents\GitHub\Quicksort\Quicksort\obj\Debug\Quicksort.csprojResolveAssemblyReference.cache
+C:\Users\Peter Husman\Documents\GitHub\Quicksort\Quicksort\obj\Debug\Quicksort.csproj.CoreCompileInputs.cache
+C:\Users\Peter Husman\Documents\GitHub\Quicksort\Quicksort\obj\Debug\Quicksort.exe
+C:\Users\Peter Husman\Documents\GitHub\Quicksort\Quicksort\obj\Debug\Quicksort.pdb
